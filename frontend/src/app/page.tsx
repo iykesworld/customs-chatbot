@@ -121,7 +121,7 @@ export default function NCSChatbot() {
           <div className="flex items-center justify-center w-12 h-12 rounded-full bg-[#004e92] border-2 border-[#FFC72C] shadow-lg">
             {/* Placeholder for NCS Logo using <img> tag */}
             <img 
-                src="https://placehold.co/48x48/004e92/ffffff?text=NCS" 
+                src="/ncsLogo.jpeg" 
                 alt="NCS Logo Placeholder" 
                 width={48} 
                 height={48} 
