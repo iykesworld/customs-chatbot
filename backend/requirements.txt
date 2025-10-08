@@ -1,0 +1,13 @@
+# Core Server Components
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+
+# LLM/RAG Components (Compatible versions)
+openai>=1.30.5
+langchain>=0.2.11
+langchain-community>=0.2.11
+langchain-core>=0.2.11
+langchain-openai>=0.1.8
+faiss-cpu==1.8.0
+pypdf==4.2.0
+python-dotenv==1.0.1

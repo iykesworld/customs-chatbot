@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "customs-officer-inquiry-chatbot"
+version = "0.1.0"
+description = "A Retrieval-Augmented Generation (RAG) chatbot for the Nigeria Customs Service internal knowledge base."
+authors = ["AZI IKECHUKWU KENNETH"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+fastapi = "^0.111.0"
+uvicorn = {extras = ["standard"], version = "^0.29.0"}
+
+openai = "^1.30.5"
+langchain = "^0.2.1"
+langchain-community = "^0.0.38"
+faiss-cpu = "^1.8.0" # Vector store for efficient similarity search
+pypdf = "^4.2.0" # For loading PDF documents
+python-dotenv = "^1.0.1" # For loading environment variables
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

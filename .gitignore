@@ -1,0 +1,47 @@
+# Add common patterns to ignore
+@"
+# Environment variables
+.env
+*.env
+backend/.env
+frontend/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+backend/venv/
+backend/env/
+
+# Node modules (if you have a frontend)
+node_modules/
+frontend/node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite3
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+"@ | Out-File -FilePath .gitignore -Encoding utf8

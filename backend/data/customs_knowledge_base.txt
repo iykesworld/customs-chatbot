@@ -1,0 +1,89 @@
+Nigeria Customs Service (NCS) Internal Policy and Trade Reference Manual
+Last Updated: Q3 2024
+
+====================================================================
+SECTION 1: OVERVIEW OF THE NCS ACT 2023 AND CLEARANCE TIMELINES
+====================================================================
+
+The Nigeria Customs Service Act (NCSA) 2023 aims to streamline trade, improve corporate governance, and boost revenue generation.
+A key provision of the Act is the establishment of a Governing Board to oversee general policies.
+
+Cargo Clearance Timelines (NCSA 2023):
+- Initial Clearance Period: Imported goods must be cleared within 30 days of arrival at the port.
+- Overtime Cargo: Goods uncleared beyond 30 days are classified as "overtime" but may be cleared within an additional 30 days upon approval from the relevant customs controller.
+- Disposal: Goods remaining uncleared for over 90 days from the arrival date are subject to official disposal by the NCS.
+- Advance Ruling: Importers can apply for an Advance Ruling on tariff classification or valuation. The NCS must issue this ruling no later than 150 calendar days from receipt of the application.
+
+====================================================================
+SECTION 2: TARIFFS AND LEVIES ON USED MOTOR VEHICLES
+====================================================================
+
+Tariffs on imported used vehicles are calculated based on the Vehicle Identification Number (VIN) valuation system and are subject to the ECOWAS Common External Tariff (CET) structure.
+
+Duty Structure for Used Vehicles (HS Code 8703):
+- Import Duty: 20% of the Cost, Insurance, and Freight (CIF) value.
+- National Automotive Council (NAC) Levy: 15% of the CIF value.
+- Surcharge (SUR): 7.0% applied to the Import Duty amount.
+- Value Added Tax (VAT): 7.5% of the total cleared value (CIF + Duty + Levy + other taxes).
+- Other Taxes (ETL/IAT): Varying rates, e.g., 0.5% ETL.
+
+Age Restriction:
+Used vehicles older than 15 years from the year of manufacture are generally prohibited from import.
+
+Example Calculation Note:
+To calculate total payable customs duty, sum the Import Duty, NAC Levy, SUR, ETL, and VAT.
+The current official exchange rate must be applied to the dollar-denominated VIN value.
+
+====================================================================
+SECTION 3: PROHIBITED AND RESTRICTED ITEMS FOR IMPORTATION
+====================================================================
+
+The NCS maintains a comprehensive list of items whose importation is absolutely prohibited or severely restricted to protect national security, public health, and local industries.
+
+Absolutely Prohibited Items (Trade):
+- Used Clothing and Footwear
+- Frozen Poultry and Pork Products
+- Used Compressors, Refrigerators, and Freezers
+- Used Motor Vehicles older than 15 years
+- Counterfeit or Pirated Materials and Currency
+
+Prohibited Items (Security / Public Order):
+- Air Pistols and Pistols disguised in any form
+- Indecent or Obscene Prints, Books, or Articles
+- Nuclear Industrial Waste and other Toxic Materials
+
+Restricted Imports (Require Permits / Certification):
+- Food, Drinks, and Pharmaceuticals: Require prior approval and certification from NAFDAC.
+- Electrical Appliances and Cables: Require certification from the Standards Organisation of Nigeria (SON) with SONCAP Certificate.
+- Wildlife and Animal Products: Require CITES permits for endangered species.
+
+====================================================================
+SECTION 4: REQUIRED DOCUMENTS FOR IMPORTATION
+====================================================================
+
+Standard import documents required include:
+- Bill of Lading or Airway Bill
+- Commercial Invoice
+- Packing List
+- Form M (Import Permit)
+- Certificate of Origin
+- SONCAP Certificate (for regulated products)
+
+====================================================================
+SECTION 5: CUSTOMS CLEARANCE PROCESS
+====================================================================
+
+1. Submit import documentation.
+2. Assessment of duties and taxes.
+3. Payment of assessed duties.
+4. Physical examination (if required).
+5. Release of goods.
+
+====================================================================
+SECTION 6: CONTACT INFORMATION
+====================================================================
+
+Nigerian Customs Service Headquarters
+Address: No 2. Lake Taal Close, off Tigris Crescent, off Aguiyi Ironsi St, Maitama, Abuja. 
+Website: https://www.customs.gov.ng
+Email: helpdesk@customs.gov.ng
