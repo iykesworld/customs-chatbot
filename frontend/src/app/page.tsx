@@ -23,6 +23,9 @@ interface Message {
   error?: boolean
 }
 
+// Environment variable
+const API_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000"
+
 export default function NCSChatbot() {
   const [messages, setMessages] = useState<Message[]>([
     {
@@ -59,7 +62,7 @@ export default function NCSChatbot() {
 
     try {
       // API call to the FastAPI backend
-      const response = await fetch("http://localhost:8000/chat", {
+      const response = await fetch(`${API_URL}/chat`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
