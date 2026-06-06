@@ -78,10 +78,15 @@ export default function NCSChatbot() {
 
       // *** CRITICAL FIX: MAP SOURCE FIELDS ***
       // The backend returns 'source_text_preview', but the frontend expects 'text'.
-      const transformedSources = (data.sources || []).map((s: any) => ({
-        text: s.source_text_preview,
-        metadata: s.metadata,
-      }))
+      const transformedSources = (data.sources || []).map(
+        (s: {
+          source_text_preview: string
+          metadata?: Record<string, unknown>
+        }) => ({
+          text: s.source_text_preview,
+          metadata: s.metadata,
+        })
+      )
 
       // 3. Remove loading message and add actual response
       setMessages((prev) => {
