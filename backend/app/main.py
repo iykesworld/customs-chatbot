@@ -36,8 +36,11 @@ app = FastAPI(
 # IMPORTANT: This allows the Next.js frontend (likely on port 3000) to communicate with this backend.
 origins = [
     "http://localhost:3000",
-    os.getenv("FRONTEND_URL", ""),
 ]
+
+frontend_url = os.getenv("FRONTEND_URL")
+if frontend_url:
+    origins.append(frontend_url)
 
 app.add_middleware(
     CORSMiddleware,
