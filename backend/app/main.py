@@ -29,7 +29,7 @@ class ChatResponse(BaseModel):
 app = FastAPI(
     title="NCS Inquiry Chatbot API",
     description="Internal API for Customs Officer RAG Chatbot.",
-    version="1.0.0"
+    version="1.0.0",
 )
 
 # --- CORS Configuration ---
